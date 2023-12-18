@@ -1,5 +1,5 @@
-My quick 15 mins Django REST framework implementation 
------------------------------------------------------
+Django REST framework implementation 
+------------------------------------
 
 Ok, A short intro on what it is all about: Especially the DRF.
 
